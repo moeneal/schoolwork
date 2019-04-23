@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="Homepage for the user. Holds the link to the reports the user needs.">
+	<title> RMAK Homepage </title>
+	<style>
+		body
+		{
+			background-color:tan;
+		}
+		h1
+		{
+			color:black;
+			text-align:center;
+		}
+	</style>
+        </head>
+	<body>
+<h1> Welcome to RMAK </h1>
+
+<p> Hello <i>Tenya Iida</i>! RMAK has created this home page just for you! We created this page 
+to connect you to our KNACK services that lets you organize your school documents. 
+This page is meant to help you. To log into your KNACK, either click this link <a href="https://alecruschh.knack.com/rmak#courses/" title= "Log in for KNACK" target="_blank">here</a>, or click <em>log in </em> under <b> Log in to KNACK </b>. 
+<br>Below there are instructions on how to create a new document, assingment, and exam. Additionaly, the
+instructions on how to edit all of your documents and how to see your reports. 
+</p>
+
+<h4><strong> Login to KNACK</strong></h4> 
+<p> <a href="https://alecruschh.knack.com/rmak#courses/" title="links to user login page" target="_blank">log in</a></p>
+
+<h4> Instructions </h4>
+
+
+
+<p>
+<b>Contact Us</b><br>
+RMAK Consulting Company <br>
+P.O. Box 173362 <br>
+Denver, CO 80217-3362 <br>
+
+email: rmackconsult@rmack.com <br>
+phone: 303-352-7548 <br>
+fax:   303-352-7547<br>
+
+</p>
+</body>
+</html>
